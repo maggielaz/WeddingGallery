@@ -12,6 +12,11 @@
 *	Edit this section
 *
 * ======================================================= */
+.bold {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
