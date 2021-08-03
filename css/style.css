@@ -18,7 +18,10 @@
 }
 
 #mainbackground {
-  background: url('../images/jmImages/MaggieJon__0548.jpg') no-repeat center center fixed; 
+  background: url('../images/jmImages/MaggieJon__0548.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment:fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
