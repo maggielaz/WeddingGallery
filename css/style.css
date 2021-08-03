@@ -17,6 +17,14 @@
   text-decoration: underline;
 }
 
+#mainbackground {
+  background: url('../images/jmImages/MaggieJon__0548.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
