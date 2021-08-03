@@ -17,6 +17,10 @@
   text-decoration: underline;
 }
 
+.heading-section a {
+  padding: 10px;
+}
+
 #mainbackground {
   background: url('../images/jmImages/MaggieJon__0548.jpg');
   background-repeat: no-repeat;
